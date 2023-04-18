@@ -1,9 +1,0 @@
-.logo {
-  width: 130px;
-  height: 38px;
-
-  @include onTabletANDDesktop() {
-    width: 187px;
-    height: 56px;
-  }
-}
